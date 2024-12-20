@@ -8,3 +8,29 @@ presentation/.env
 python/__pycache__/
 python/*.pyc
 python/venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+data/raw/
+data/processed/
+*.xlsx
+*.csv
+
+# Models
+models/saved_models/
+
+# Results
+results/forecasts/
+results/visualizations/
+
+# IDE
+.idea/
+.vscode/
