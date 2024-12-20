@@ -1,0 +1,10 @@
+node_modules
+# React/Vite
+presentation/node_modules/
+presentation/dist/
+presentation/.env
+
+# Python
+python/__pycache__/
+python/*.pyc
+python/venv/
